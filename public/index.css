@@ -43,7 +43,7 @@ body {
 .container .right_side {
     background-image: linear-gradient(to right top, #ffffff, #d3d3d3, #a9a9a9, #808080, #5a5a5a);
     padding: 1.5rem;
-    height: 49.3%;
+    max-height: 47%;
     
    
 }
@@ -177,6 +177,8 @@ body {
   bottom: 20%;
   margin-left: 1%;
   font-weight: bolder;
+  text-shadow: 5px 5px#a77d3b
+
 }
 
  
